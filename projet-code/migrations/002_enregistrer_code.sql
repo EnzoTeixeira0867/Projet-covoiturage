@@ -1,0 +1,1 @@
+INSERT INTO parametres (code) VALUES ('xMoo0PAQ2Y7f');
